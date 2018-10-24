@@ -1,6 +1,6 @@
 # RESTfulWS
 
-DesarrollO Del programa RESTfulWS para la evidencia del curso "**Computación Avanzada en Java **"
+Desarrollo Del programa RESTfulWS para la evidencia del curso "**Computación Avanzada en Java **"
 
 ## Instalación
 **Clonar el repositorio**  
