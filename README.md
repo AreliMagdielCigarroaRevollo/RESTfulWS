@@ -19,7 +19,7 @@ git clone https://github.com/arelimagdielcigarroarevollo/RESTfulWS
 **Ejecutar .jar**  
 1. Abrir la carpeta `bin`.
 2. Abrir la terminal (*utilizar privilegios de administrador en Windows*).
-3. Navegar a la carpeta `fbcmd4j/bin` donde se encuentra el archivo `RESTfulWS
+3. Navegar a la carpeta `RESTfulWS` donde se encuentra el archivo `RESTfulWS
 4. Ejecutar el comando `java -jar RESTfulWS.
 
 ## Uso
