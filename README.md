@@ -7,16 +7,16 @@ Desarrollo Del programa RESTfulWS para la evidencia del curso "**Computación Av
 
 ## Instalación
 1.Descargar el paquete de archivos.
-2.Abrir el archivo **WAR**
+2.Abrir el archivo **WAR**.
 3.Se ejecutara autamaticamente.
 
 
 ## Uso
 **Configurar **   
-1. Abrir el programa
-2.Seleccionar la acción a ejecutar
+1. Abrir el programa.
+2.Seleccionar la acción a ejecutar.
 3.Seleccionar archivos, directorios o usuarios (depende de la accion).
-4.Continuar con las indicaciones
+4.Continuar con las indicaciones.
 
 
 
