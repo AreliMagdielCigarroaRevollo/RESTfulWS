@@ -1,0 +1,2 @@
+Acerca De:
+Esta aplicación es un proyecto que utiliza Spring Framework, solo tienes que exportar a WAR
